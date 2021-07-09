@@ -1,0 +1,32 @@
+.container{
+    width: 400px;
+	height: 100%;
+    padding: 10px;
+    margin-top: 50px;
+	position: relative;
+	text-align: center;
+    -webkit-box-shadow: 5px 5px 8px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 8px 0px rgba(0,0,0,0.75);
+    box-shadow: 5px 5px 8px 0px rgba(0,0,0,0.75);
+}
+.card-footer {
+    height: 70px;
+    margin: 0;
+}
+.card-footer .btn {
+    font-weight: bold;
+}
+.card-footer .progress {
+    display: none;
+    height: 32px;
+    margin: 0;
+}
+.input-group-addon {
+    color: #fff;
+    background: #f2f2f2;
+} 
+ .card-header{
+    background: linear-gradient(90deg, rgba(160,23,117,1) 44%, rgba(238,125,0,1) 84%);
+    margin-bottom: 0px;
+}
+
